@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Tisha Dhamu – a passionate Web Developer  <br>      Skilled in HTML, CSS, JavaScript, Python, PHP, and C/C++<br>⚙️ Experienced with frameworks like React.js, Angular, and Bootstrap, and tools like MongoDB, SQL, and Visual Studio Code<br>🎓 Pursuing B.Tech in CSE <br><br><br><br>
+Hi there! I'm Tisha Dhamu, a passionate Web Developer and CSE Student <br>I enjoy creating modern, responsive, and user-friendly websites <br>and web applications.<br><br>💻 I love working with technologies like HTML, CSS, JavaScript, and React.js<br>, and I’m continuously exploring frameworks like<br> Angular and backend technologies like PHP and MongoDB.<br>🛠️ My projects range from student productivity tools to <br>browser-based games, all aimed at enhancing user experience and <br>solving real-world problems.<br>🎯 I'm always open to learning new things,<br> collaborating on meaningful projects, and contributing to open-source.<br><br>
 
 
 ## 🌐 Socials:
